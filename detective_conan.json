@@ -1,0 +1,34 @@
+{
+  "personajes": [
+    {
+      "nombre": "Shinichi Kudo",
+      "edad": 17,
+      "genero": "Masculino"
+    },
+    {
+      "nombre": "Ran Mouri",
+      "edad": 17,
+      "genero": "Femenino"
+    },
+    {
+      "nombre": "Kogoro Mouri",
+      "edad": 38,
+      "genero": "Masculino"
+    },
+    {
+      "nombre": "Hiroshi Agasa",
+      "edad": "53",
+      "genero": "Masculino"
+    },
+    {
+      "nombre": "Heiji Hattori",
+      "edad": "17",
+      "genero": "Masculino"
+    },
+    {
+      "nombre": "Siho Miyano",
+      "edad": "18",
+      "genero": "Femenino"
+    }
+  ]
+}
